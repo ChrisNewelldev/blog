@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://ChrisNewelldev.github.io/blogsitemap.xml
